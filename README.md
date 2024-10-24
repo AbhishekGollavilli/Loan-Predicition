@@ -1,8 +1,9 @@
 # Loan-Predicition
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-**Prediction of loan by verifying all the satisfactory constraints to be done for loan approval by using supervised machine learning algorithms.
-**
+Prediction of loan by verifying all the satisfactory constraints to be done for loan approval by using supervised machine learning algorithms.
+
 Supervised machine learning used in the project:
+
      -> Decision Tree.
      -> Random Forest.
      -> XG Boost.
