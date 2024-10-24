@@ -1,5 +1,5 @@
 # Loan-Predicition
----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Prediction of loan by verifying all the satisfactory constraints to be done for loan approval by using supervised machine learning algorithms.
 Supervised machine learning used in the project:
 
@@ -10,4 +10,4 @@ Supervised machine learning used in the project:
 
 Outcome of the project:
 
-  Accuracy value of all the models and it's respective AUC curves.
+      Accuracy value of all the models and it's respective AUC curves.
